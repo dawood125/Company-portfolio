@@ -13,7 +13,7 @@ A modern, responsive company landing page built from a Figma design provided by 
 
 ## 🚀 Demo
 
-![Landing Page Screenshot](/Assests/images/Desktop - 4.png)
+![Landing Page Screenshot](Assests/images/Desktop-4.png)
 
 ## 📁 Project Structure
 
@@ -50,12 +50,6 @@ This project was built based on a Figma design provided by the client. All layou
 2. **Open `index.html` in your browser.**
 
    For live reload during development, you can use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code.
-
-## 📸 Screenshots
-
-![Hero Section](/Assests/images/Desktop - 4.png)
-![Services Section](Assests/images/website.png)
-![FAQ Section](Assests/images/Group%2050.png)
 
 ## 🤝 Credits
 
