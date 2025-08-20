@@ -13,7 +13,7 @@ A modern, responsive company landing page built from a Figma design provided by 
 
 ## 🚀 Demo
 
-![Landing Page Screenshot](Assests/images/Desktop-4.png)
+![Landing Page Screenshot](Assests/images/desingimage.png)
 
 ## 📁 Project Structure
 
